@@ -17,7 +17,7 @@ Utkarsh</a></h1>
 - Software Development Intern at <a href="https://www.digit.in" target="blank">digit.in.</a>
 - Data Analyst Intern at <a href="https://www.digit.in" target="blank">digit.in.</a>
 
-- 📫 How to reach me **dailymail2801@gmail.com**
+📫 How to reach me **dailymail2801@gmail.com** and **utkarsh.sharma@iongroup.com**
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
