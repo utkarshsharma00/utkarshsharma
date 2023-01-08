@@ -6,7 +6,7 @@ Utkarsh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as an Analyst in the Markets: Cleared Derivatices Division at <a href="http://iongroup.com" target="blank">ION Group.</a>
+- 🔭 I’m currently working as an Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group.</a>
 - 🎓 Studied Computer Science at Guru Gobind Singh Indrprastha University, New Delhi, India.
 
 ## Research Experience
