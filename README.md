@@ -7,7 +7,7 @@ Utkarsh</a></h1>
 </a>
 
 - 🔭 I’m currently working as an Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group.</a>
-- 🎓 Studied Computer Science at Guru Gobind Singh Indrprastha University, New Delhi, India.
+- 🎓 Studied Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India.
 
 ## Research Experience
 - (NLP & ML) for Healthcare research at <a href="https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair" target="blank">Centre for Artificial Intelligence and Robotics</a>, and <a href="https://www.drdo.gov.in/labs-and-establishments/defence-scientific-information-documentation-centre-desidoc" target="blank">Defence Scientific Information and Documentation Centre.</a> 
