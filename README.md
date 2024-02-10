@@ -7,11 +7,11 @@ Utkarsh</a></h1>
 </a>
 
 ## Education
-- 🎓 Studying Computer Science at University of Illinois Urbana-Champaign (2024 - Present).
-- 🎓 Studied Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India (2017 - 2021).
+- 🎓 Masters Computer Science at University of Illinois Urbana-Champaign (2024 - Present).
+- 🎓 Bachelors Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India (2017 - 2021).
 
 ## Industry Experience
-- 🔭 Worked as a Rotational Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group (2021 - 2023).</a>
+- 🔭 Worked as a Rotational Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group</a> (2021 - 2023).
 
 ## Research Experience
 - (NLP & ML) for Healthcare research at <a href="https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair" target="blank">Centre for Artificial Intelligence and Robotics</a>, and <a href="https://www.drdo.gov.in/labs-and-establishments/defence-scientific-information-documentation-centre-desidoc" target="blank">Defence Scientific Information and Documentation Centre.</a> 
