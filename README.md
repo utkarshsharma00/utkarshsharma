@@ -6,8 +6,12 @@ Utkarsh</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as an Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group.</a>
-- 🎓 Studied Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India.
+## Education
+- 🎓 Studying Computer Science at University of Illinois Urbana-Champaign (2024 - Present).
+- 🎓 Studied Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India (2017 - 2021).
+
+## Industry Experience
+- 🔭 Worked as a Rotational Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group (2021 - 2023).</a>
 
 ## Research Experience
 - (NLP & ML) for Healthcare research at <a href="https://www.drdo.gov.in/labs-and-establishments/centre-artificial-intelligence-robotics-cair" target="blank">Centre for Artificial Intelligence and Robotics</a>, and <a href="https://www.drdo.gov.in/labs-and-establishments/defence-scientific-information-documentation-centre-desidoc" target="blank">Defence Scientific Information and Documentation Centre.</a> 
@@ -17,7 +21,7 @@ Utkarsh</a></h1>
 - Software Development Intern at <a href="https://www.digit.in" target="blank">digit.in.</a>
 - Data Analyst Intern at <a href="https://www.digit.in" target="blank">digit.in.</a>
 
-📫 How to reach me **dailymail2801@gmail.com** and **utkarsh.sharma@iongroup.com**
+📫 How to reach me **dailymail2801@gmail.com** and **usharma4@illinois.edu**
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
