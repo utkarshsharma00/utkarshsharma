@@ -10,6 +10,9 @@ Utkarsh</a></h1>
 - 🎓 Masters Computer Science at University of Illinois Urbana-Champaign (2024 - Present).
 - 🎓 Bachelors Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India (2017 - 2021).
 
+## Current Research @<a href="https://moleculemaker.org/" target="blank">MMLI</a> x <a href="https://chbe.illinois.edu/" target="blank">CHBE</a>
+- Developing a novel encoder-decoder architecture incorporating equivariant graph neural networks for chemical reaction modeling, with custom data loaders for batching and preprocessing molecular conformer ensembles.
+
 ## Industry Experience
 - 🔭 Worked as a Rotational Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group</a> (2021 - 2023).
 
