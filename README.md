@@ -11,7 +11,7 @@ Utkarsh</a></h1>
 - 🎓 Bachelors Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India (2017 - 2021).
 
 ## Current Research @<a href="https://moleculemaker.org/" target="blank">MMLI</a> x <a href="https://chbe.illinois.edu/" target="blank">CHBE</a>
-- Developing a novel encoder-decoder architecture incorporating equivariant graph neural networks for chemical reaction modeling, with custom data loaders for batching and preprocessing molecular conformer ensembles.
+- Developing an equivariant neural network to predict enantioselectivity in asymmetric catalysis. Engineered data pipeline, foundational model architecture, and conformer ensemble embedding techniques to revolutionize catalyst optimization.
 
 ## Industry Experience
 - 🔭 Worked as a Rotational Analyst in the Markets: Cleared Derivatives Division at <a href="http://iongroup.com" target="blank">ION Group</a> (2021 - 2023).
