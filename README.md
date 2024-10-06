@@ -10,7 +10,7 @@ Utkarsh</a></h1>
 - 🎓 Masters Computer Science at University of Illinois Urbana-Champaign (2024 - Present).
 - 🎓 Bachelors Computer Science at Guru Gobind Singh Indraprastha University, New Delhi, India (2017 - 2021).
 
-## Current Research @<a href="https://moleculemaker.org/" target="blank">MMLI</a> x <a href="https://chbe.illinois.edu/" target="blank">CHBE</a>
+## Current Research @<a href="https://moleculemaker.org/" target="blank">MMLI</a> x <a href="https://www.igb.illinois.edu/" target="blank">IGB</a>
 - Developing an equivariant neural network to predict enantioselectivity in asymmetric catalysis. Engineered data pipeline, foundational model architecture, and conformer ensemble embedding techniques to revolutionize catalyst optimization.
 
 ## Industry Experience
